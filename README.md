@@ -6,11 +6,6 @@
 
 
 <div>
-
-  ## About Me 👋
-
-  <br>
-  <br>
   
   ## 🧱 Skills
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -33,11 +28,7 @@
   <br>
 
   
-  
-  ## 🤔 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jookyworld)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jookyworld)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
+</div>
 
 
 <!--
